@@ -3,10 +3,10 @@
 
 ## GRUPO 1 
 
--turismo
--Motocicletas
--autocaravanas (hasta 3500kg)
--Pick up
+- turismo
+- Motocicletas
+- autocaravanas (hasta 3500kg)
+- Pick up
 
 AUTOPISTAS Y AUTOVÍAS: 120 km/hr.
 CARRETERA CONVENCIONAL: 90 km/hr.
@@ -14,9 +14,9 @@ TRAVESÍA EN POBLADO: 50 km/hr.
 
 ## GRUPO 2
 
--Buses
--Derivados de turismos
--Autos mixtos
+- Buses
+- Derivados de turismos
+- Autos mixtos
 
 AUTOPISTAS Y AUTOVÍAS: 100 km/hr.
 CARRETERA CONVENCIONAL: 90 km/hr.
@@ -24,11 +24,11 @@ TRAVESÍA EN POBLADO: 50 km/hr.
 
 ## GRUPO 3
 
--Camión.
+- Camión.
 - Furgon o furgoneta.
--Vehículo articulado (trailer).
--Automóviles con remolque (incluso turismos con remolque ligero).
--Autocaravanas +3500kg.
+- Vehículo articulado (trailer).
+- Automóviles con remolque (incluso turismos con remolque ligero).
+- Autocaravanas +3500kg.
 
 AUTOPISTAS Y AUTOVÍAS: 90 km/hr.
 CARRETERA CONVENCIONAL: 80 km/hr.
