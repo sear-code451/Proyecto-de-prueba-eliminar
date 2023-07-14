@@ -1,0 +1,12 @@
+{
+  "name": "examen-de-conducir",
+  "version": "1.0.0",
+  "description": "- turismo\r - Motocicletas\r - autocaravanas (hasta 3500kg)\r - Pick up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
