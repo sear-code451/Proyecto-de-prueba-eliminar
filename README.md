@@ -93,3 +93,7 @@ El propietario de un automovil, vehiculo especial autopropulsado, cualquiera que
 - Con mas de 3 años de antiguedad, pasa a tener un credito de 12 puntos.
 
 - Si el titular no ha sido sancionado en firme en via administrativa por la comision de infracciones, recibira como bonificacion 2 puntos durante los 3 primeros años y un punto por los 3 sgtes, pudiendo llegar a acumular hasta un maximo de 15 puntos.
+
+## Niveles de alcohol
+
+para los noveles solo se le permite de 1.15 de nivel de alcohol algo por ahí es que se yo.
